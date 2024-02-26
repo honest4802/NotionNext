@@ -424,6 +424,6 @@ const BLOG = {
 }
 
 module.exports = BLOG
-{
+module.exports = {
   poweredByHeader: false,
 }
