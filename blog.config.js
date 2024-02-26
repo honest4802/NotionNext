@@ -424,3 +424,6 @@ const BLOG = {
 }
 
 module.exports = BLOG
+{
+  poweredByHeader: false,
+}
